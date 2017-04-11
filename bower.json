@@ -5,7 +5,10 @@
     "CrownPeak"
   ],
   "description": "CrownPeak SearchG2 Clients",
-  "main": "Javascript\\dist\\crownpeak.searchg2-0.2.0.js",
+  "main": [
+    "./Javascript/dist/crownpeak.searchg2.js",
+    "./Javascript/dist/crownpeak.searchg2.autocomplete.js"
+  ],
   "keywords": [
     "CrownPeak",
     "SearchG2"
