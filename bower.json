@@ -1,0 +1,21 @@
+{
+  "name": "SearchG2-Clients",
+  "homepage": "https://github.com/CrownPeak/SearchG2-Clients",
+  "authors": [
+    "CrownPeak"
+  ],
+  "description": "CrownPeak SearchG2 Clients",
+  "main": "Javascript\\dist\\crownpeak.searchg2-0.2.0.js",
+  "keywords": [
+    "CrownPeak",
+    "SearchG2"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
